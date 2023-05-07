@@ -6,7 +6,7 @@ To download the entire repo click **Code** and Download Zip and Extract
 To download a single file either copy and paste or use [DownGit](https://minhaskamal.github.io/DownGit/#/home) Tool.
 
 # Support me 🌟
-If you can't donate a _Star_ on this repo would be nice or a follow on my account too!!!
+If you can't donate, please leave  _Star_ on this repo that would be nice and/or follow on my account too!!!
 
 # Donate 🙏🏿
 Donos are appreciated, but not mandatory!
